@@ -63,7 +63,7 @@ source venv/bin/activate   # for macOS/Linux
 pip install -r requirements.txt
 
 4️⃣ Run the app :
-python main.py         (Now visit http://127.0.0.1:5000/  in your browser 🎉)
+python main.py         (Now visit http://127.0.0.1:8000/  in your browser 🎉)
 
 
 🙌 Contributors :
