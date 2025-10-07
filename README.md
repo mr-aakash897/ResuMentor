@@ -3,7 +3,7 @@
 Resumentor is an intelligent web platform designed to help job seekers improve their resumes and prepare for interviews using AI and NLP.<br>
 Upload your resume and get instant analysis: the system identifies skill gaps, highlights strengths, and provides actionable suggestions to make your resume stand out. Beyond resume evaluation, Resumentor offers AI-driven mock interviews, where users can practice real-world questions and receive personalized feedback on clarity, confidence, and technical accuracy.<br>
 Built with Flask (backend), HTML/CSS/JavaScript (frontend), and MongoDB, the platform leverages Sentence Transformers, PyTorch, and scikit-learn to deliver precise insights. Optional AI integrations include OpenAI or Google Generative AI for enhanced resume and interview analysis.<br>
-```bash
+
 <b>✨ Key Features :</b>
 🧾 Resume Parsing & AI Analysis<br>
 📊 Skill Gap & Feedback Suggestions<br>
@@ -12,7 +12,7 @@ Built with Flask (backend), HTML/CSS/JavaScript (frontend), and MongoDB, the pla
 
 Resumentor makes job preparation smarter, faster, and more effective — empowering users to confidently apply for their dream roles.
 
-```bash
+
 <b>🏗️ Tech Stack :</b>
 Frontend: HTML, CSS, JavaScript
 Backend: Flask (Python)
@@ -20,7 +20,7 @@ Database: MongoDB
 AI/NLP: Sentence Transformers, Scikit-learn, Torch, Transformers, NLTK
 Additional Tools: OpenAI / Google Generative AI (optional integration)
 
-```bash
+
 <b>📁 Project Structure :</b>
 RESUMENTOR/
 │
@@ -45,7 +45,6 @@ RESUMENTOR/
 └── README.md
 
 
-```bash
 <b>⚙️ Installation & Setup</b>
 
 <b>1️⃣ Clone the repository :</b>
@@ -65,12 +64,12 @@ pip install -r requirements.txt
 <b>4️⃣ Run the app :</b>
 python main.py         (Now visit http://127.0.0.1:8000/  in your browser 🎉)
 
-```bash
+
 <b>🙌 Contributors :</b>
 Original Work: Aryan Bansal, Tanisha Khanna, Arnav Bansal, Tushti Gupta
 Modified & Maintained by: Aakash Chouhan
 
-```bash
+
 <b>🪪 License:</b>
 This project is licensed under the MIT License.
 See the LICENSE
